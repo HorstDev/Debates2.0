@@ -1,0 +1,24 @@
+﻿@model DebatesAgain.ViewModels.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5">
+<form asp-action="Login" asp-controller="Account" method="post">
+      <div asp-validation-summary="All" style="font-size:23px; font-family:Impact" class="text-danger"></div>
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Электронная почта</label>
+        <input type="email" asp-for="Email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        <div id="emailHelp" class="form-text">Вы сможете использовать почту как ник в дебатах:)</div>
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Пароль</label>
+        <input type="password" asp-for="Password" class="form-control" id="exampleInputPassword1">
+      </div>
+      <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Запомнить меня</label>
+      </div>
+      <button type="submit" class="btn btn-primary">Войти</button>
+</form>
+</div>

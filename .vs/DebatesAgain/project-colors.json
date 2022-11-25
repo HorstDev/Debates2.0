@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed3db02d-add7-491b-aff3-b06cb3cdc24a": {
+      "ProjectGuid": "ed3db02d-add7-491b-aff3-b06cb3cdc24a",
+      "DisplayName": "DebatesAgain",
+      "ColorIndex": 0
+    },
+    "48fd557a-e3fd-43d1-b348-4a2cc685b213": {
+      "ProjectGuid": "48fd557a-e3fd-43d1-b348-4a2cc685b213",
+      "DisplayName": "DebatesApp.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

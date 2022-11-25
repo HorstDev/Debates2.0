@@ -1,0 +1,14 @@
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\bin\Debug\net6.0\DebatesApp.Data.deps.json
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\bin\Debug\net6.0\DebatesApp.Data.runtimeconfig.json
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\bin\Debug\net6.0\DebatesApp.Data.dll
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\bin\Debug\net6.0\ref\DebatesApp.Data.dll
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\bin\Debug\net6.0\DebatesApp.Data.pdb
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.csproj.AssemblyReference.cache
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.AssemblyInfoInputs.cache
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.AssemblyInfo.cs
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.dll
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\ref\DebatesApp.Data.dll
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.pdb
+C:\Users\gorst\source\repos\ThirdCourse\DebatesAgain\DebatesApp.Data\obj\Debug\net6.0\DebatesApp.Data.genruntimeconfig.cache

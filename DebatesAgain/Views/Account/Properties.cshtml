@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Properties";
+}
+
+<div class="container mt-5">
+<form asp-action="Properties" asp-controller="Account" method="post">
+      <div class="mb-3 text-center">
+        <h1>Вы можете выбрать новую роль:</h1>
+        <input type="radio" name="message" value="ChangeRoleToViewer" id="message"> Зритель
+		<input type="radio" name="message" value="ChangeRoleToParticipant" id="message"> Участник
+        <input type="radio" name="message" value="ChangeRoleToModerator" id="message"> Модератор
+      </div>
+      <div class=text-center>
+          <button type="submit" class="btn btn-primary mt-3">Применить</button>
+      </div>
+</form>
+</div>
+
